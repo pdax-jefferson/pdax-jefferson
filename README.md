@@ -38,7 +38,6 @@ I believe theory is meaningless without experience. Over the years, I’ve learn
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
@@ -54,10 +53,10 @@ I believe theory is meaningless without experience. Over the years, I’ve learn
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" alt="PowerShell" width="40" height="40"/>
 </p>
 
-- **Backend & Data:** Python, NodeJs, C# (.NET Core, ASP.NET), Redshift, Postgres, MySQL, TSQL, PLpgSQL
-- **Cloud & Infrastructure:** AWS, Terraform (HCL), Kubernetes, ECS, Datadog, CI/CD (Buildkite, Makefile, Shell)
-- **Frontend:** JavaScript (React, Node.js), SCSS, HTML, CSS
-- **DevOps & Security:** Open Policy Agent, Kyverno, SIEM/ELK, AppSec, IAM, incident management
+- **Backend & Data:** Python, NodeJs, C# (.NET Core, ASP.NET), Redshift, DynamoDB, Postgres, MySQL, TSQL, PLpgSQL
+- **Cloud & Infrastructure:** AWS, Terraform, Kubernetes, ECS, Datadog, CI/CD (Buildkite, Makefile, Shell)
+- **Frontend:** JavaScript (React, Node.js), Angular, HTML, CSS
+- **DevOps & Security:** SIEM/ELK, AppSec, IAM, MDM, Datadog
 - **Other:** MacOS, Linux, PowerShell, Cordova, CodeIgniter
 
 ---
@@ -68,7 +67,7 @@ I believe theory is meaningless without experience. Over the years, I’ve learn
 - **Organizer:** Python Hour, PyCon Philippines (“Ugnayan” theme for connection and community)
 - **Volunteer:** PythonPH, Google Developer Student Clubs (Python CodeLab trainer)
 - **Publications:** Arduino tutorials on sensor and IoT (MIT, Arduino.cc)
-- **Passions:** Financial market data, automation, open source, education, and community building
+- **Passions:** Financial market data, automation, BetterGov.ph, GoodDevs.tech, Tech Startup, Gym, and Kiwi
 
 ---
 
@@ -98,7 +97,7 @@ I believe theory is meaningless without experience. Over the years, I’ve learn
 
 - I love organizing tech events, sharing knowledge, and learning from others.
 - I believe the hardest problems in software engineering are naming things, caching, and streams.
-- I’m passionate about remote work, open source, and building resilient systems.
+- I’m passionate about remote work, open source, and building challenging systems.
 
 ---
 
