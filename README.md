@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jeff Paredes
 
-**Software Engineer | Public Speaker | Python and AWS | Trading and Market Data**
+**Software Engineer | Python and AWS | Trading and Market Data**
 
 ---
 
