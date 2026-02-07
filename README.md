@@ -18,15 +18,14 @@ I believe theory is meaningless without experience. Over the years, I’ve learn
 ## 💼 Projects I Work On
 
 - Building APIs and applications for real-time trading and market data distribution.
-- Developing scalable cloud-native platforms for secure and reliable financial data delivery.
-- Creating multi-language solutions for fund and market data management using backend, frontend, and database technologies.
-- Designing automation and infrastructure as code for cloud environments, including account management, cluster extensions, and observability integrations.
+- Developing scalable cloud-native platforms for operations and financial data delivery.
+- Creating solutions for fund and market data management using backend, frontend, and database technologies.
+- Designing automation and infrastructure as code for AWS environments, including account management, cluster extensions, and observability integrations.
 - Implementing intelligent assistant platforms, integrating frontend interfaces and Python-powered backend analytics.
-- Engineering developer tools for authentication, security, and seamless CI/CD workflows across cloud and registry endpoints.
+- Engineering developer tools for authentication, security, and seamless CI/CD workflows.
 - Delivering business automation solutions for data extraction, reporting, and process improvement.
 - Managing centralized logging, incident response, and fraud monitoring for high-volume systems.
 - Architecting feedback and analytics systems to empower organizations with actionable insights.
-- Facilitating DevOps, CI/CD pipelines, and cloud architecture for resilient, scalable and maintainable applications.
 - Supporting and maintaining international platforms for cross-border airtime transfer and digital asset exchanges.
 - Leading volunteer efforts and organizing community training events for Python development, public speaking, and tech education.
 
